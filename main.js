@@ -1,6 +1,4 @@
 // main.js
-// Placeholder for future JavaScript interactivity 
-
 // Dark mode toggle functionality
 
 document.addEventListener('DOMContentLoaded', function () {
